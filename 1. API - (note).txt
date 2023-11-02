@@ -1,7 +1,0 @@
-Faire de l'heritage et polimorphisme sur OAS
-
-description: std
-
-author: object / sex enum(M/F)
-
-parameter
